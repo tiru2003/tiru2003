@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiru2003
 - 👀 I’m interested in doing collaborative projects
-- 🌱 I’m currently learning programming languages like python and Java 
+- 🌱 I’m currently learning programming languages like python and C#
 - 💞️ I’m looking to collaborate on society problems solving projects
 - 📫 How to reach me tvrnarayana@gmail.com
 
